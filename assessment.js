@@ -69,6 +69,7 @@
         '{userName}のいいところは節度です。強引すぎない{userName}の考えに皆が感謝しています。',
         '{userName}のいいところは好奇心です。新しいことに向かっていく{userName}の心構えが多くの人に魅力的に映ります。',
         '{userName}のいいところは気配りです。{userName}の配慮が多くの人を救っています。',
+        '{userName}のいいところは優しさです。{userName}の優しい雰囲気や立ち振舞に多くの人が癒やされています。'
     ];
     function assessment(userName){
         let sumOfcharCode = 0;
